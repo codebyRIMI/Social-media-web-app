@@ -4,6 +4,16 @@
 
 ---
 
+## 📚 Acknowledgement
+
+This project was created by following and learning from a YouTube tutorial.
+
+The primary purpose of this repository is educational — to understand and practice full-stack web development concepts such as authentication, REST APIs, database relationships, and frontend–backend integration.
+
+While the core idea and guidance came from a tutorial, the code was written as part of hands-on learning and may include minor modifications or personal experimentation.
+
+---
+
 ## 📌 Project Overview
 
 This is a **full‑stack web application** developed to understand and practice modern web development concepts, including frontend–backend integration, authentication, REST APIs, and database interactions.
