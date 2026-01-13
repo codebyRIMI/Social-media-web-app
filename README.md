@@ -165,6 +165,11 @@ This project was built to:
 
 ---
 
+## 📄 License
+This project is licensed under the MIT License.
+
+---
+
 ## 🧑‍💻 Author
 
 **Rimi Halder**
